@@ -3,6 +3,8 @@
 
 I tested the above mentioned API's using Postman and it worked fine for me.
 
+P.S: Create a zomato API key file by the name of key on the root folder of project and test the zomato features then.
+
 <h2>Django steps:</h2>
 Kindly go through the following steps to start the django server.
 
